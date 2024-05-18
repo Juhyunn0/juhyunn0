@@ -1,42 +1,46 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20JJ's%20Github&fontAlign=50&fontSize=49&fontAlignY=50&textBg=false&section=header&strokeWidth=0&stroke=3" alt="header">
-</h1>
+# Hi, I'm Juhyun Jung 👋
 
-<!--내용 부분-->
-<h3 align="center">✨ Education ✨</h3>
-B.S. Mechanical Eng. (Minor: Artificial Intelligence, College of Computer Science) <br>
-Illinois Institute of Technology | Chicago, IL 			Expected graduation: Dec, 2024 <br>
-Dean’s list (4.0/4.0 GPA)				           <br>
-Ajou University | Korea					2018 – 2022		 <br>	 
-Dean’s list (4.48/4.5 GPA) <br>
+<!--
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=juhyunn0&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=juhyunn0&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/juhyunn0/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhyunn0&layout=compact"/></a>
+</p>
+-->
 
+<p align='center'>
+   📫 How to reach me: <a href='mailto:jjung28@hawk.iit.edu'>jjung28@hawk.iit.edu</a>
+<p align='center'>
+    <img
+      src="https://img.shields.io/badge/jjung28@hawk.iit.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+</p>
 
-<h3 align="center">📚 Research 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
+## 📚 Education  
+* **B.S. Mechanical Eng. (Minor: Artificial Intelligence, College of Computer Science)**
+  *    ##### Illinois Institute of Technology | Chicago, ILㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤExpected graduation: Dec, 2024
+  *   ######         Dean’s list (4.0/4.0 GPA)
+* **B.S. Mechanical Eng.**
+  * ##### Ajou University | KoreaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤExpected graduation: Dec, 2024
+  * ######        Dean’s list (4.48/4.5 GPA)
 
-<br>
-
-<h3 align="center">🛠 Project 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
+## 🛠 Research & Projects  
+* **RESEARCH**
+  * Computer Vision and Multimedia Laboratory (CVM Lab), Illinois Institute of Technology | Chicago, IL	                             May 2023 – May 2024
+Advisor: Dr. Yan Yan
+In the CVM lab, I conducted a research project focused on predicting mouse behavior by integrating images and audio.
+  * Multiscale Bio-inspired Technology Laboratory (MOST Lab), Ajou University | Korea
+Advisor: Dr. Je-sung Koh
+Dielectric Elastomer Actuator performance project							              Jan 2022 – June 2022
+In MOST lab(Multiscale Bio-inspired Technology lab), I did a research project related to DEA performance (Dielectric Elastomer Actuator)
 
 
 <br>
 
 <h3 align="center">📫 Honors and Awards 📫</h3>
 <div align="center">
-
-  </a>
-  <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/jjung28@hawk.iit-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/jjung28@hawk.iit.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
