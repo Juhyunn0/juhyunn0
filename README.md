@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20JJ's%20Github&fontAlign=50&fontSize=49&fontAlignY=50&textBg=false&section=header&strokeWidth=0&stroke=3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20JJ's%20Github&fontAlign=50&fontSize=49&fontAlignY=50&textBg=false&section=header&strokeWidth=0&stroke=3)
 </div>
 
 <!--내용 부분-->
