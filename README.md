@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20-nl-JJ's%20Github&fontAlign=50&fontSize=49&fontAlignY=50&textBg=false)
 <!--
 **Juhyunn0/juhyunn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
