@@ -11,10 +11,10 @@
 -->
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:jjung28@hawk.iit.edu'>jjung28@hawk.iit.edu</a>
+   📫 How to reach me: <a href='mailto:juhyunn0523@gmail.com'>jjung28@hawk.iit.edu</a>
 <p align='center'>
     <img
-      src="https://img.shields.io/badge/jjung28@hawk.iit.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/juhyunn0523@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </p>
 
 ## 📚 Education 
