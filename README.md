@@ -26,7 +26,7 @@ Dean’s list (4.0/4.0 GPA)
 <br><br>
 * **B.S. Mechanical Eng.**  
 Ajou University | KoreaㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤExpected graduation: Dec, 2024  
-Dean’s list (4.48/4.5 GPA)
+Dean’s list (4.47/4.5 GPA)
 
 </p>
 
