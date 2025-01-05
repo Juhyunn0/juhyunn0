@@ -1,4 +1,5 @@
 # Hi, I'm Juhyun Jung 👋
+I've created my personal website, so if you're interested, please feel free to visit [here](https://juhyunn0.github.io)! 
 
 <!--
 <p align='center'>
@@ -10,8 +11,7 @@
 </p>
 -->
 
-<p align='center'>
-   I've created my personal website, so if you're interested, please feel free to visit [here](https://juhyunn0.github.io)!   
+<p align='center'>  
    📫 How to reach me: <a href='mailto:juhyunn0523@gmail.com'>juhyunn0523@gmail.com</a>
 <p align='center'>
     <img
