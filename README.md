@@ -1,5 +1,7 @@
-# Hi, I'm Juhyun Jung 👋
-## I've created my personal website, so if you're interested, please feel free to visit [here](https://juhyunn0.github.io)! 
+# Hi, I'm Juhyun Jung 👋  
+
+## I've created my personal website, so if you're interested, please feel free to visit [here](https://juhyunn0.github.io)!   
+
 
 <!--
 <p align='center'>
